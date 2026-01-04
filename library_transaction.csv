@@ -1,0 +1,61 @@
+Transaction ID,Date,User ID,Book Title,Genre,Borrowing Duration (Days)
+1,2024-01-03,U101,Python Basics,Education,7
+2,2024-01-05,U102,Data Science 101,Education,10
+3,2024-01-07,U103,Harry Potter,Fantasy,14
+4,2024-01-08,U104,Atomic Habits,Self-Help,5
+5,2024-01-10,U105,The Hobbit,Fantasy,12
+6,2024-01-12,U106,Deep Work,Self-Help,8
+7,2024-01-15,U107,Python Basics,Education,6
+8,2024-01-18,U108,Machine Learning Intro,Education,15
+9,2024-01-20,U109,Harry Potter,Fantasy,10
+10,2024-01-22,U110,Rich Dad Poor Dad,Finance,7
+11,2024-02-01,U101,The Psychology of Money,Finance,9
+12,2024-02-03,U102,Atomic Habits,Self-Help,6
+13,2024-02-06,U103,Data Science 101,Education,11
+14,2024-02-10,U104,The Hobbit,Fantasy,14
+15,2024-02-12,U105,Deep Work,Self-Help,8
+16,2024-02-15,U106,Python Basics,Education,7
+17,2024-02-18,U107,Harry Potter,Fantasy,13
+18,2024-02-20,U108,Machine Learning Intro,Education,12
+19,2024-03-01,U109,Atomic Habits,Self-Help,5
+20,2024-03-05,U110,Rich Dad Poor Dad,Finance,9
+21,2024-03-08,U101,The Psychology of Money,Finance,10
+22,2024-03-10,U102,Data Science 101,Education,11
+23,2024-03-12,U103,Harry Potter,Fantasy,14
+24,2024-03-15,U104,Deep Work,Self-Help,7
+25,2024-03-18,U105,The Hobbit,Fantasy,13
+26,2024-03-20,U106,Python Basics,Education,6
+27,2024-03-22,U107,Machine Learning Intro,Education,14
+28,2024-03-25,U108,Atomic Habits,Self-Help,8
+29,2024-03-28,U109,Harry Potter,Fantasy,12
+30,2024-04-01,U110,Rich Dad Poor Dad,Finance,10
+31,2024-04-03,U101,Data Science 101,Education,9
+32,2024-04-05,U102,The Hobbit,Fantasy,15
+33,2024-04-07,U103,Deep Work,Self-Help,7
+34,2024-04-10,U104,Python Basics,Education,8
+35,2024-04-12,U105,Harry Potter,Fantasy,14
+36,2024-04-15,U106,Machine Learning Intro,Education,13
+37,2024-04-18,U107,Atomic Habits,Self-Help,6
+38,2024-04-20,U108,Rich Dad Poor Dad,Finance,9
+39,2024-04-22,U109,The Psychology of Money,Finance,11
+40,2024-04-25,U110,Data Science 101,Education,10
+41,2024-05-01,U101,Harry Potter,Fantasy,15
+42,2024-05-03,U102,Deep Work,Self-Help,8
+43,2024-05-05,U103,The Hobbit,Fantasy,13
+44,2024-05-07,U104,Python Basics,Education,7
+45,2024-05-10,U105,Machine Learning Intro,Education,12
+46,2024-05-12,U106,Atomic Habits,Self-Help,5
+47,2024-05-15,U107,Rich Dad Poor Dad,Finance,9
+48,2024-05-18,U108,The Psychology of Money,Finance,10
+49,2024-05-20,U109,Data Science 101,Education,11
+50,2024-05-22,U110,Harry Potter,Fantasy,14
+51,2024-06-01,U101,Deep Work,Self-Help,7
+52,2024-06-03,U102,The Hobbit,Fantasy,12
+53,2024-06-05,U103,Python Basics,Education,6
+54,2024-06-07,U104,Machine Learning Intro,Education,14
+55,2024-06-10,U105,Atomic Habits,Self-Help,8
+56,2024-06-12,U106,Rich Dad Poor Dad,Finance,9
+57,2024-06-15,U107,The Psychology of Money,Finance,11
+58,2024-06-18,U108,Data Science 101,Education,10
+59,2024-06-20,U109,Harry Potter,Fantasy,15
+60,2024-06-22,U110,Deep Work,Self-Help,7
